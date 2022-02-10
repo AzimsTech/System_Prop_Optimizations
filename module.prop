@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=system_prop_optimizations
+name=Android System Properties Optimizations
+version=100222
+versionCode=100222
+author=AzimsTech
+description=Android System Properties Optimizations
+# updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
